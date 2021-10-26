@@ -1,0 +1,8 @@
+## Ignore non-MS Office files
+*.xml
+*.html
+
+# Image files
+*.png
+*.jpg
+
