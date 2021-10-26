@@ -1,8 +1,8 @@
 ## Ignore non-MS Office files
 *.xml
 *.html
+*.ini
 
 # Image files
 *.png
 *.jpg
-
